@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Success Mashabela</h1>
-<h3 align="center">A passionate Backend Development from South Africa</h3>
+<h3 align="center">A passionate Software Developer from South Africa</h3>
 https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F
 
 
